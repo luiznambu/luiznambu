@@ -1,5 +1,4 @@
-<h1 align=center>Bem vindo ao meu Github!</h1> 
-<h3 align=center>Olá, sou graduado em Ciência e Tecnologia com foco em desenvolvimento web</h3>
+<h3 align=center>Olá, sou o Luiz, graduado em Ciência e Tecnologia com foco em desenvolvimento web</h3>
 <p align=center>e atualmente cursando Ciência da Computação pela Universidade Federal do ABC. :closed_book:</p>
 <br>
 
@@ -7,7 +6,7 @@
     <thead>
       <tr>
         <th colspan="2">
-          Meu Desenvolvimento :smirk:
+          Sobre mim :smirk:
         </th>
       </tr>
     </thead>
@@ -44,7 +43,7 @@
 </table>
 
 <div>
-<h6>Um pouco mais sobre mim: <br><br>
+<h6>Algumas outras coisas: <br><br>
     <div>
         <ul>
             <li>Entusiasta da música :guitar:</li>
