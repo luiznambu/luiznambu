@@ -19,7 +19,7 @@
                   <li>Criando com React</li>
                   <li>Praticando TypeScript</li>
                   <li>Estilizando com CSS / SASS</li>
-                  <li>Aprendendo com a RocketSeat :rocket:</li>
+                  <li>Aprendendo com a RocketSeat e Trybe </li>
                 </ul>
               </div>
           </td>
