@@ -1,4 +1,4 @@
-<h3 align=center>Olá, sou o Luiz, graduado em Ciência e Tecnologia com foco em desenvolvimento web</h3>
+<h3 align=center>Olá, sou o Luiz, graduado em Ciência e Tecnologia e focado em desenvolvimento web</h3>
 <p align=center>e atualmente cursando Ciência da Computação pela Universidade Federal do ABC. :closed_book:</p>
 <br>
 
