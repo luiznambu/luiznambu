@@ -6,7 +6,7 @@
     <thead>
       <tr>
         <th colspan="2">
-          Sobre mim :smirk:
+          Sobre mim
         </th>
       </tr>
     </thead>
